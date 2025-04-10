@@ -1,2 +1,2 @@
 # python-learning-projects
-Practicising python daily to not forget the basics
+Practicising python daily to enhance my coding skills
